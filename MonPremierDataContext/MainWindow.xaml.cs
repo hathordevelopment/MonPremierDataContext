@@ -23,6 +23,6 @@ namespace MonPremierDataContext
         public MainWindow()
         {
             InitializeComponent();
-        }
+        }      
     }
 }
